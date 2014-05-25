@@ -137,7 +137,7 @@ public class Main extends Activity{
 		}
 		
 		//Input the address into the shared prefs
-		sp.putString(editor, "address", zipCode);
+		sp.putString(editor, "zipcode", zipCode);
 		editor.commit();
 		L.m(zipCode); //For debugging
 	}

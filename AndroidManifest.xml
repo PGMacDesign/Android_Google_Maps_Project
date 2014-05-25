@@ -78,10 +78,15 @@
                         
         </activity>
        
-            
+        <!-- This activity is a hcom.pgmacdesign.googlemapsproject.ActivityTwoasks-->
+        <activity
+            android:name=".GMapV2Direction"
+            android:label="Directions Calculator"  >
+                        
+        </activity>            
       
         
-                
+                 
         
         
         
